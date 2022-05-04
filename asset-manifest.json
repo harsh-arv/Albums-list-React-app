@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Albums-list-React-app/static/css/main.76334b79.chunk.css",
+    "main.js": "/Albums-list-React-app/static/js/main.2981fe33.chunk.js",
+    "main.js.map": "/Albums-list-React-app/static/js/main.2981fe33.chunk.js.map",
+    "runtime-main.js": "/Albums-list-React-app/static/js/runtime-main.982d6253.js",
+    "runtime-main.js.map": "/Albums-list-React-app/static/js/runtime-main.982d6253.js.map",
+    "static/js/2.7cbde475.chunk.js": "/Albums-list-React-app/static/js/2.7cbde475.chunk.js",
+    "static/js/2.7cbde475.chunk.js.map": "/Albums-list-React-app/static/js/2.7cbde475.chunk.js.map",
+    "index.html": "/Albums-list-React-app/index.html",
+    "static/css/main.76334b79.chunk.css.map": "/Albums-list-React-app/static/css/main.76334b79.chunk.css.map",
+    "static/js/2.7cbde475.chunk.js.LICENSE.txt": "/Albums-list-React-app/static/js/2.7cbde475.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.982d6253.js",
+    "static/js/2.7cbde475.chunk.js",
+    "static/css/main.76334b79.chunk.css",
+    "static/js/main.2981fe33.chunk.js"
+  ]
+}

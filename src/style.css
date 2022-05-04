@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family:"Kumbh Sans", sans-serif;
+}
+
+
+
+
+html{
+  height: 100vh;
+  min-width: 600px;
+  background: #f1ce30; 
+  background: -webkit-linear-gradient(to right, #2cdfa9, #43C6AC);  
+  background: linear-gradient(to right, #b9edfa, #d8b2ee); 
+  background-size: auto;
+  text-align: center;
+  }
+
+  h1{
+    margin-top: 50px;
+  }
+
+.dropdown {
+  width: 600px;
+  margin: 100px auto;
+}
+
+.dropdown .dropdown-btn{
+  padding: 10px;
+  background: #fff;
+  box-shadow: 3px 3px 10px 6px rgba(0,0,0,0.06);
+  font-weight: bold;
+  color: rgb(75, 75, 173);
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+   cursor: pointer;
+}
+
+.dropdown-container{
+  padding: 15px;
+  background: #fff;
+  box-shadow: 3px 3px 10px 6px rgba(0,0,0,0.06);
+  font-weight: 500;
+  color: chocolate;
+  list-style-type: none;
+}
+
+.dropdown-item{
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.dropdown-item:hover{
+ background: pink;
+}
+
+div{
+  margin-top: 50%;
+}
